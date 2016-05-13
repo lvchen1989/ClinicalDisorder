@@ -36,7 +36,7 @@ This is a training example.
 
 
 
-The demo system includes clinical disorder recognition sample data(["trainsample.txt"](LSTMRNN/data/trainsample.txt), and ["trainsample.txt"](LSTMRNN/data/testsample.txt)), English word embeding sample file(["sena.emb"](embeddings/senna/sena.emb)) and parameter setting file(["option.tune"](LSTMRNN/example/optiontune)). All of these files are in the path described in the above trainning command.
+The demo system includes clinical disorder recognition sample data(["trainsample.txt"](LSTMRNN/data/trainsample.txt), and ["testsample.txt"](LSTMRNN/data/testsample.txt)), English word embeding sample file(["sena.emb"](embeddings/senna/sena.emb)) and parameter setting file(["option.tune"](LSTMRNN/example/optiontune)). All of these files are in the path described in the above trainning command.
  
 This demo system runs a ***LSTMNoCharCRFMMLabeler*** model which means a bidirectional LSTM neural network and use CRF maximun margin as the objective function. 
 
@@ -46,6 +46,15 @@ Test:
 =====
 
 This is a test example.
+
+* ./LSTMNoCharCRFMMLabeler -test data/testsample.txt -model example/demoLSTMMM50.model -output data/testLSTMMM50.output
+
+-test: test set.
+
+-model: the model used for testing.
+
+-outoput: the predicted result fot the test file (["testsample.txt"](LSTMRNN/data/testsample.txt)) based on the model "demoLSTMMM50.model".
+
 Note: 
 ======
 * Current version only compatible with [LibN3L](https://github.com/SUTDNLP/LibN3L) after ***Dec. 10th 2015*** , which contains the model saving and loading module.

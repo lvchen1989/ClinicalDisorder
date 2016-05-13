@@ -11,8 +11,8 @@ System configuration
 
 Compile
 ======
-cmake .
-make LSTMNoCharCRFMMLabeler
+* cmake .
+* make LSTMNoCharCRFMMLabeler
 
 ***LSTMNoCharCRFMMLabeler*** is the bidirectional LSTM.
 

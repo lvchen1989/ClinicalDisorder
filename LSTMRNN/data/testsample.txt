@@ -1,0 +1,588 @@
+Sex o
+: o
+F o
+Service o
+: o
+ADMISSION o
+DIAGNOSIS o
+: o
+Bicuspid B-C
+aortic I-C
+valve I-C
+and o
+aortic B-C
+stenosis I-C
+. o
+
+DISCHARGE o
+DIAGNOSES o
+: o
+1 o
+. o
+
+Bicuspid B-C
+aortic I-C
+valve I-C
+and o
+aortic B-C
+stenosis I-C
+. o
+
+The o
+patient o
+subjectively o
+reports o
+progressive o
+fatigue B-C
+and o
+mild o
+dyspnea B-C
+on I-C
+exertion I-C
+times o
+several o
+months o
+. o
+
+No o
+shortness B-C
+of I-C
+breath I-C
+, o
+chest B-C
+pain I-C
+, o
+paroxysmal B-C
+nocturnal I-C
+dyspnea I-C
+, o
+or o
+orthopnea B-C
+. o
+
+PAST o
+MEDICAL o
+HISTORY o
+: o
+1 o
+. o
+
+Bicuspid B-C
+aortic I-C
+valve I-C
+. o
+
+2 o
+. o
+
+Asthma B-C
+. o
+
+3 o
+. o
+
+Factor B-C
+XI I-C
+deficiency I-C
+. o
+
+4 o
+. o
+
+Hypertension B-C
+. o
+
+5 o
+. o
+
+Hypercholesterolemia B-C
+. o
+
+6 o
+. o
+
+Polymyalgia B-C
+rheumatica I-C
+. o
+
+7 o
+. o
+
+Osteoarthritis B-C
+. o
+
+8 o
+. o
+
+Status o
+post o
+appendectomy o
+. o
+
+9 o
+. o
+
+Status o
+post o
+left o
+knee o
+arthroscopy o
+. o
+
+10 o
+. o
+
+Status o
+post o
+left o
+donor o
+nephrectomy o
+. o
+
+11 o
+. o
+
+Status o
+post o
+tubal o
+ligation o
+. o
+
+12 o
+. o
+
+Status o
+post o
+incisional B-C
+hernia I-C
+repair o
+. o
+
+13 o
+. o
+
+Left B-C
+bundle-branch I-C
+block I-C
+. o
+
+ALLERGIES o
+: o
+PENICILLIN o
+-LRB- o
+gives o
+swelling B-C
+-RRB- o
+. o
+
+CONTRAST o
+DYE o
+-LRB- o
+gives o
+hives B-C
+-RRB- o
+. o
+
+MEDICATIONS o
+ON o
+ADMISSION o
+: o
+1 o
+. o
+
+Prednisone o
+6 o
+mg o
+p.o. o
+q.d. o
+2 o
+. o
+
+Fosamax o
+70 o
+mg o
+p.o. o
+every o
+Thursday o
+. o
+
+3 o
+. o
+
+Singulair o
+10 o
+mg o
+p.o. o
+q.d. o
+4 o
+. o
+
+Hydrochlorothiazide o
+12.5 o
+mg o
+p.o. o
+q.d. o
+5 o
+. o
+
+Combivent o
+as o
+needed o
+. o
+
+6 o
+. o
+
+Advair o
+as o
+needed o
+. o
+
+7 o
+. o
+
+Vitamin o
+E. o
+8 o
+. o
+
+Vitamin o
+C. o
+9 o
+. o
+
+Calcium o
+. o
+
+10 o
+. o
+
+Multivitamin o
+supplement o
+. o
+
+PHYSICAL o
+EXAMINATION o
+ON o
+PRESENTATION o
+: o
+The o
+patient o
+was o
+an o
+elderly o
+woman o
+in o
+no o
+acute B-C
+distress I-C
+. o
+
+Head o
+, o
+eyes o
+, o
+ears o
+, o
+nose o
+, o
+and o
+throat o
+examination o
+revealed o
+normocephalic o
+and o
+atraumatic o
+. o
+
+Pupils o
+were o
+equal o
+, o
+round o
+, o
+and o
+reactive o
+to o
+light o
+. o
+
+Extraocular o
+movements o
+were o
+intact o
+. o
+
+Sclerae o
+were o
+anicteric B-C
+. o
+
+The o
+throat o
+was o
+clear o
+. o
+
+The o
+neck o
+was o
+supple o
+without o
+lymphadenopathy B-C
+or o
+masses B-C
+. o
+
+The o
+chest o
+was o
+clear o
+to o
+auscultation o
+bilaterally o
+. o
+
+Cardiovascular o
+examination o
+revealed o
+a o
+regular o
+rate o
+and o
+rhythm o
+with o
+a o
+3/6 o
+systolic B-C
+ejection I-C
+murmur I-C
+. o
+
+Not o
+cyanotic B-C
+and o
+not o
+edematous B-C
+times o
+four o
+. o
+
+Neurologic o
+examination o
+was o
+intact o
+. o
+
+PERTINENT o
+LABORATORY o
+VALUES o
+ON o
+PRESENTATION o
+: o
+Admission o
+laboratories o
+revealed o
+complete o
+blood o
+count o
+with o
+a o
+white o
+blood o
+cell o
+count o
+of o
+9.1 o
+, o
+hematocrit o
+was o
+35.9 o
+, o
+and o
+platelets o
+were o
+311 o
+. o
+
+Chemistries o
+revealed o
+sodium o
+was o
+140 o
+, o
+potassium o
+was o
+4 o
+, o
+chloride o
+was o
+103 o
+, o
+bicarbonate o
+was o
+28 o
+, o
+blood o
+urea o
+nitrogen o
+was o
+16 o
+, o
+creatinine o
+was o
+0.7 o
+, o
+and o
+blood o
+glucose o
+was o
+108 o
+. o
+
+ALT o
+was o
+37 o
+, o
+AST o
+was o
+26 o
+, o
+alkaline o
+phosphatase o
+was o
+56 o
+, o
+total o
+bilirubin o
+was o
+0.2 o
+. o
+
+Prothrombin o
+time o
+was o
+12 o
+, o
+INR o
+was o
+1 o
+, o
+and o
+partial o
+thromboplastin o
+time o
+was o
+37.3 o
+. o
+
+Urinalysis o
+was o
+negative o
+. o
+
+
+Normal o
+first o
+heart o
+sound o
+and o
+second o
+heart o
+sound o
+. o
+
+A o
+systolic B-C
+murmur I-C
+at o
+the o
+right o
+upper o
+sternal o
+border o
+with o
+no o
+third B-C
+heart I-C
+sound I-C
+or o
+fourth B-C
+heart I-C
+sound I-C
+appreciated o
+. o
+
+Pulmonary o
+examination o
+was o
+clear o
+to o
+auscultation o
+bilaterally o
+without o
+wheezes B-C
+, o
+rhonchi B-C
+, o
+or o
+rales B-C
+. o
+
+Abdominal B-D
+examination o
+revealed o
+soft o
+and o
+nondistended B-D
+. o
+
+Diffusely o
+tender o
+without o
+guarding B-C
+or o
+rebound B-C
+. o
+
+Normal o
+active o
+bowel o
+sounds o
+. o
+
+Extremity o
+examination o
+revealed o
+no o
+edema B-C
+. o
+
+Dorsalis o
+pedis o
+and o
+posterior o
+tibialis o
+pulses o
+were o
+2 o
++ o
+. o
+
+Right o
+arm o
+arteriovenous B-C
+fistula I-C
+dressing o
+was o
+clean o
+, o
+dry o
+, o
+and o
+intact o
+with o
+a o
+palpable o
+thrill B-C
+. o

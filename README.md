@@ -1,10 +1,10 @@
 A deep learning framework for clinical disorder recognition
 ======
-ClinicalDisorder is a package for Clinical Disorder Recognition using recurrent neural networks based on package LibN3L. 
+ClinicalDisorder is a package for Clinical Disorder Recognition using recurrent neural networks based on package [LibN3L](https://github.com/SUTDNLP/LibN3L). 
 
 System configuration
 ======
-* Download the [LibN3L](https://github.com/SUTDNLP/LibN3L) library and configure your system. Please refer to [Here](https://github.com/SUTDNLP/LibN3L). This is a deep learning toolkit in C++, designed specially for NLP. It includes different ***Neural network architectures*** (TNN, RNN, GatedNN, LSTM and GRNN) with ***Objective function***(sigmoid, CRF max-margin, CRF maximum likelihood). In addition, this package can easily support various user-defined neural network structures.
+* Download the [LibN3L](https://github.com/SUTDNLP/LibN3L) library and configure your system. Please refer to [Here](https://github.com/SUTDNLP/LibN3L). This is a deep learning toolkit in C++, designed specially for NLP. This package can easily support various user-defined neural network structures.
 * Note that we have changed MyLib.h and Metric.h in this package for our task. Please use the package released in our project and follow the instructions on [LibN3L](https://github.com/SUTDNLP/LibN3L) and configure your system.
 * Open [LSTMRNN/CMakeLists.txt](CMakeLists.txt) and change " ../LibN3L/" into the directory of your [LibN3L](https://github.com/SUTDNLP/LibN3L) package.
 
@@ -72,15 +72,6 @@ Note:
 * The example files are just to verify the running for the code. For copyright consideration, we take only some sentences as example. Hence the results on those example datasets does not represent the real performance on large dataset. The training and test files should follow the format of the example files(["trainsample.txt"](LSTMRNN/data/trainsample.txt), and ["testsample.txt"](LSTMRNN/data/testsample.txt)).
 * Current version only compatible with [LibN3L](https://github.com/SUTDNLP/LibN3L) after ***Dec. 10th 2015*** , which contains the model saving and loading module.
 * The .cpp file also provide gradient checking for verify your code, it is commentted out by defult. It is necessary to set "dropout = 0" in ["option.tune"](LSTMRNN/example/optiontune) before you enable the gradient checking.
-
-
-Monitoring information
-=====
-During the running of this NER system, it may print out the follow log information:
-
-
-The first "Recall..." line shows the performance of the dev set and the second "Recall..." line shows 
-you the performance of the test set.
 
 
 Updating...

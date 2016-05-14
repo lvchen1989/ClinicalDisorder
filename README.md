@@ -35,11 +35,11 @@ This is a training example.
 
 
 
-The demo system includes clinical disorder recognition sample data(["trainsample.txt"](LSTMRNN/data/trainsample.txt), and ["testsample.txt"](LSTMRNN/data/testsample.txt)), English word embeding sample file(["sena.emb"](embeddings/senna/sena.emb)) and parameter setting file(["option.tune"](/LSTMRNN/example/optiontune)). All of these files are in the path described in the above trainning command.
+The demo system includes clinical disorder recognition sample data(["trainsample.txt"](LSTMRNN/data/trainsample.txt), and ["testsample.txt"](LSTMRNN/data/testsample.txt)), English word embeding sample file(["sena.emb"](embeddings/senna/sena.emb)) and parameter setting file(["option.tune"](LSTMRNN/example/optiontune)). All of these files are in the path described in the above trainning command.
  
 This demo system runs a ***LSTMNoCharCRFMMLabeler*** model which means a bidirectional LSTM neural network and use CRF maximun margin as the objective function. 
 
-The demo system will generate model file: "demoLSTMMM50.model" at [/LSTMRNN/example](example).
+The demo system will generate model file: "demoLSTMMM50.model" at ["example"](LSTMRNN/example).
 
 Test:
 =====
@@ -50,7 +50,7 @@ This is a test example.
 
 -test: test set.
 
--model: the model used for testing. "demoLSTMMM50.model" at [LSTMRNN/example](example) is our trained model using Bi-LSTM and Clinical embeddings(50 dim.)
+-model: the model used for testing. "demoLSTMMM50.model" at ["example"](LSTMRNN/example) is our trained model using Bi-LSTM and Clinical embeddings(50 dim.)
 
 -outoput: the predicted result fot the test file (["testsample.txt"](LSTMRNN/data/testsample.txt)) based on the model "demoLSTMMM50.model".
 

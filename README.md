@@ -6,7 +6,7 @@ System configuration
 ======
 * Download the [LibN3L](https://github.com/SUTDNLP/LibN3L) library and configure your system. Please refer to [Here](https://github.com/SUTDNLP/LibN3L). This is a deep learning toolkit in C++, designed specially for NLP. This package can easily support various user-defined neural network structures.
 * Note that we have changed MyLib.h and Metric.h in this package for our task. Please use the package released in our project and follow the instructions on [LibN3L](https://github.com/SUTDNLP/LibN3L) and configure your system.
-* Open [LSTMRNN/CMakeLists.txt](CMakeLists.txt) and change " ../LibN3L/" into the directory of your [LibN3L](https://github.com/SUTDNLP/LibN3L) package.
+* Open [/LSTMRNN/CMakeLists.txt](CMakeLists.txt) and change " ../LibN3L/" into the directory of your [LibN3L](https://github.com/SUTDNLP/LibN3L) package.
 
 Compile
 ======
@@ -35,11 +35,11 @@ This is a training example.
 
 
 
-The demo system includes clinical disorder recognition sample data(["trainsample.txt"](LSTMRNN/data/trainsample.txt), and ["testsample.txt"](LSTMRNN/data/testsample.txt)), English word embeding sample file(["sena.emb"](embeddings/senna/sena.emb)) and parameter setting file(["option.tune"](LSTMRNN/example/optiontune)). All of these files are in the path described in the above trainning command.
+The demo system includes clinical disorder recognition sample data(["trainsample.txt"](LSTMRNN/data/trainsample.txt), and ["testsample.txt"](LSTMRNN/data/testsample.txt)), English word embeding sample file(["sena.emb"](embeddings/senna/sena.emb)) and parameter setting file(["option.tune"](/LSTMRNN/example/optiontune)). All of these files are in the path described in the above trainning command.
  
 This demo system runs a ***LSTMNoCharCRFMMLabeler*** model which means a bidirectional LSTM neural network and use CRF maximun margin as the objective function. 
 
-The demo system will generate model file: "demoLSTMMM50.model" at [LSTMRNN/example](example).
+The demo system will generate model file: "demoLSTMMM50.model" at [/LSTMRNN/example](example).
 
 Test:
 =====
